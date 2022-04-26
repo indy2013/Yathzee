@@ -1,9 +1,3 @@
-/*
-* [Pas deze hoofding aan]
-* Authors: Vreys Frederik & Gilissen Koen
-* Date: 24/10/2019
-* Description: Start code voor blackjack spel
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
